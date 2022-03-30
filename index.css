@@ -1,0 +1,37 @@
+body {
+  background-color: #fafafc;
+}
+
+.container {
+  /* border: 3px solid gold; */
+}
+
+.header {
+  /* border: 3px solid red; */
+  justify-content: center;
+  align-items: center;
+}
+/* .header {
+  margin-bottom: 1rem;
+} */
+.blogcontent {
+  /* border: 3px solid gold; */
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.blogs {
+  margin-bottom: 1rem;
+  padding: 1rem;
+  border: 1px solid pink;
+  border-radius: 5px;
+}
+
+li {
+  font-style: none;
+}
+h1 {
+  margin-left: 45%;
+}
